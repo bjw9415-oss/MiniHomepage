@@ -23,4 +23,8 @@
 
 ## 푸터추가
 
-- footer.md 파일 추가
+- footer.md 파일 추가 
+
+## search 추가  
+
+- scarch.md 파일 추가
